@@ -20,7 +20,7 @@ Deutsch
 
 Ελληνικά
 
-English (US)
+English (United States)
 
 Español
 
@@ -72,9 +72,9 @@ ${data.activeCategory.name}
 
 - [${category.name}](https://support-leagueoflegends.riotgames.com/hc/zh-tw/articles/360000951548-Clash%E5%B8%B8%E8%A6%8B%E5%95%8F%E7%AD%94)
 
-客服表單等待時間
+Discord帳號連結功能已停用
 
-如果你已經送出客服表單並正在等待回覆，請再稍等一下。我們最近收到的表單比平常多，而為了確保每一張表單都能獲得應有的關注，回覆可能會有所延遲。感謝你耐心等候！
+Discord帳號連結功能暫時無法使用。我們正在努力讓它盡快恢復運作（並會持續改進！）。感謝你的耐心等候！
 
 「蒂瑪西亞崛起」進度與伺服器轉移
 
@@ -383,38 +383,3 @@ Clash獎勵的主要形式包括獎盃、勝利積分、晶球和榮譽典藏罐
 - [《符文大地傳說》](https://support-legendsofruneterra.riotgames.com/hc/zh-tw/requests/new)
 - [Riot Forge](https://support-riotforge.riotgames.com/hc/zh-tw/requests/new)
 - [2XKO](https://support-2xko.riotgames.com/hc/zh-tw/requests/new)
-
-[《英雄聯盟》客服](https://support-leagueoflegends.riotgames.com/hc/zh-tw)
-
-[客服](https://support.riotgames.com/hc/zh-tw)
-
-遊戲總覽
-
-- [League of Legends](https://support-leagueoflegends.riotgames.com/hc/zh-tw)
-- [VALORANT](https://support-valorant.riotgames.com/hc/zh-tw)
-- [Teamfight Tactics](https://support-teamfighttactics.riotgames.com/hc/zh-tw)
-- [Legends of Runeterra](https://support-legendsofruneterra.riotgames.com/hc/zh-tw)
-- [LOL: Wild Rift](https://support-wildrift.riotgames.com/hc/zh-tw)
-- [2XKO](https://support-2xko.riotgames.com/hc/zh-tw)
-
-提交表單
-
-我的表單
-
-服務狀態
-
-[停權與檢舉](https://support.riotgames.com/hc/zh-tw/p/bans-and-reports)
-
-[《英雄聯盟》客服](https://support-leagueoflegends.riotgames.com/hc/zh-tw)
-
-[遊戲總覽](https://support.riotgames.com/hc/zh-tw) [提交表單](https://support-leagueoflegends.riotgames.com/hc/zh-tw/requests/new) [我的表單](https://support-leagueoflegends.riotgames.com/hc/zh-tw/requests) [服務狀態](https://status.riotgames.com/) [停權與檢舉](https://support.riotgames.com/hc/zh-tw/p/bans-and-reports)
-
-登入
-
-登入
-
-Check Session IFrame
-
-OIDC OP Iframe
-
-Riot Owned IFrame
