@@ -97,7 +97,7 @@ ${data.activeCategory.name}
 
 **Isto**
 
-昨天, 下午4:53
+2026年5月7日 下午4:53
 
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsupport-leagueoflegends.riotgames.com%2Fhc%2Fzh-tw%2Farticles%2F360000951548-Clash%25E5%25B8%25B8%25E8%25A6%258B%25E5%2595%258F%25E7%25AD%2594 "Facebook")
 - [Twitter](https://twitter.com/share?url=https%3A%2F%2Fsupport-leagueoflegends.riotgames.com%2Fhc%2Fzh-tw%2Farticles%2F360000951548-Clash%25E5%25B8%25B8%25E8%25A6%258B%25E5%2595%258F%25E7%25AD%2594&text=Clash%E5%B8%B8%E8%A6%8B%E5%95%8F%E7%AD%94%20%E2%80%93%20%E3%80%8A%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%E3%80%8B%E5%AE%A2%E6%9C%8D "Twitter")
@@ -312,9 +312,9 @@ Clash獎勵的主要形式包括獎盃、勝利積分、晶球和典藏罐。
 - [Clash：簡訊驗證](https://support-leagueoflegends.riotgames.com/hc/zh-tw/articles/360000991627)
 - [Riot錦標賽模式 - 解除綁定手機號碼](https://support-leagueoflegends.riotgames.com/hc/zh-tw/articles/10953286887315)
 
+- [Riot錦標賽模式 - 解除綁定手機號碼](https://support-leagueoflegends.riotgames.com/hc/zh-tw/articles/10953286887315)
 - [Clash常見問答](https://support-leagueoflegends.riotgames.com/hc/zh-tw/articles/360000951548)
 - [Riot競賽模式 - 簡訊驗證](https://support-leagueoflegends.riotgames.com/hc/zh-tw/articles/10742560356499)
-- [Clash：簡訊驗證](https://support-leagueoflegends.riotgames.com/hc/zh-tw/articles/360000991627)
 
 [/ 檢視全部](https://support-leagueoflegends.riotgames.com/hc/zh-tw/sections/115002164328-LCS-%E7%A4%BE%E7%BE%A4%E8%81%AF%E8%B3%BD%E5%92%8CClash%E7%9A%84%E5%B8%B8%E8%A6%8B%E5%95%8F%E7%AD%94)
 
@@ -407,5 +407,3 @@ Clash獎勵的主要形式包括獎盃、勝利積分、晶球和典藏罐。
 登入
 
 Check Session IFrame
-
-OIDC OP Iframe
